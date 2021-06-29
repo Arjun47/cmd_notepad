@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# filename
+.gitignore
+.vscode
 # C extensions
 *.so
 
